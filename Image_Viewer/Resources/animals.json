@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Buffalo 1",
+    "imageName": "buffalo-1"
+  },
+  {
+    "name": "Elephant 1",
+    "imageName": "elephant-1"
+  },
+  {
+    "name": "Buffalo 2",
+    "imageName": "buffalo-2"
+  },
+  {
+    "name": "Giraffe 1",
+    "imageName": "giraffe-1"
+  },
+  {
+    "name": "Buffalo 3",
+    "imageName": "buffalo-3"
+  },
+  {
+    "name": "Gorilla 1",
+    "imageName": "gorilla-1"
+  },
+  {
+    "name": "Buffalo 4",
+    "imageName": "buffalo-4"
+  },
+  {
+    "name": "Wild Dog 1",
+    "imageName": "wild-dog-1"
+  },
+  {
+    "name": "Hippo",
+    "imageName": "hippo-1"
+  },
+  {
+    "name": "Cheetah 1",
+    "imageName": "cheetah-1"
+  },
+  {
+    "name": "Lion",
+    "imageName": "lion-1"
+  },
+  {
+    "name": "Cheetah 2",
+    "imageName": "cheetah-2"
+  },
+  {
+    "name": "Zebra",
+    "imageName": "zebra-1"
+  },
+  {
+    "name": "Cheetah 3",
+    "imageName": "cheetah-3"
+  },
+  {
+    "name": "Cheetah 4",
+    "imageName": "cheetah-4"
+  }
+]
